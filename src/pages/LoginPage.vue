@@ -1,7 +1,7 @@
 <template>
-  <q-page class="bg-grey-3">
+  <q-page class="light-green-13">
     <div class="row">
-      <q-card class="fixed-center col-md-4 col-xs-12 bg-white" flat>
+      <q-card class="fixed-center col-md-4 col-xs-12 pink-2" flat>
         <q-card-section>
           <div class="text-h6 q-pb-md">
             Halaman Login
@@ -30,8 +30,8 @@
               ]"
             />
             <div>
-              <q-btn label="Login" type="submit" color="primary"/>
-              <q-btn label="Reset" type="reset" color="primary" flat class="q-ml-sm" />
+              <q-btn label="Login" type="submit" color="deep-purple-12" />
+              <q-btn label="Reset" type="reset" color="deep-purple-12" flat class="q-ml-sm" />
             </div>
         </q-form>
         </q-card-section>
